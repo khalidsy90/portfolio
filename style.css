@@ -82,3 +82,17 @@ color: #1B7CEB;
     width: 100%;
     height: 100%;
 }
+.ul-bigphoto
+{
+  list-style: none;
+  color: white;
+  font-size: 35px;
+}
+.ul-bigphoto li
+{
+
+}
+.img-bigphoto img
+{
+margin-right: 10px;
+}

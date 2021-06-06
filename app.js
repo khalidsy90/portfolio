@@ -13,7 +13,7 @@ while(number_cities < 3 || number_cities > 5)
 alert("oops Whatch out ! The number must be between 1 and 5")
 var number_cities=prompt("You can tell me from 3 to 5 cities only.. How many cities would you like to tell me?")
 }
-const pic_links=['https://cdn.kimkim.com/files/a/content_articles/featured_photos/48c38e1bc7ac4fe65333bd312a62e078974a4825/big-bff021ba0a331150d63cd1046fb2b573.jpg','https://res.klook.com/image/upload/c_crop,h_1437,w_2999,x_0,y_539/c_fill,w_1160,h_460,f_auto/w_80,x_15,y_15,g_south_west,l_klook_water/activities/uzsjaxandtob6rpewx1o.webp','https://modo3.com/thumbs/fit630x300/2976/1580305634/%D8%A7%D9%84%D9%82%D8%AF%D8%B3.jpg','https://www.skynewsarabia.com/images/v1/2019/11/19/1298987/800/450/1-1298987.jpg','https://media.alalamtv.net/uploads/855x495/2021/05/02/161995042149922500.jpg']
+const pic_links=['https://cdn.kimkim.com/files/a/content_articles/featured_photos/48c38e1bc7ac4fe65333bd312a62e078974a4825/big-bff021ba0a331150d63cd1046fb2b573.jpg','https://www.arabnews.com/sites/default/files/styles/n_670_395/public/2021/04/27/2593776-1585438581.jpg?itok=WXwjI_AZ','https://modo3.com/thumbs/fit630x300/2976/1580305634/%D8%A7%D9%84%D9%82%D8%AF%D8%B3.jpg','https://www.skynewsarabia.com/images/v1/2019/11/19/1298987/800/450/1-1298987.jpg','https://media.alalamtv.net/uploads/855x495/2021/05/02/161995042149922500.jpg']
 var x= document.getElementById("div-photo")
 for (let index = 0; index < number_cities; index++) 
 {
